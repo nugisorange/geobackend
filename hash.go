@@ -1,4 +1,4 @@
-package backendgeo
+package geobackend
 
 import "golang.org/x/crypto/bcrypt"
 
